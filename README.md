@@ -1,2 +1,2 @@
 # kasir-app-reactjs
-<![view](foto.png)
+<![view](/public/foto.png)
